@@ -1,9 +1,9 @@
-body {
+  body {
     background: linear-gradient(#008080 0%,#191970 100%);
     text-align: center;
     font-family: 'Kaushan Script', cursive;
   }
-  img {
+  #elephants {
     width: 500px;
     border-style: solid;
     border-color: #006064;
@@ -29,4 +29,13 @@ body {
     border-radius: 20px;
     padding: 10px;
     background-color: #b33687;
+  }
+  #iphonewallet {
+    width: 400px;
+  }
+  #travelmug {
+    width: 400px;
+  }
+  #throwpillow {
+    width: 400px;
   }
