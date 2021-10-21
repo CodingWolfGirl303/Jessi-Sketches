@@ -1,6 +1,7 @@
 body {
     background: linear-gradient(#008080 0%,#191970 100%);
     text-align: center;
+    font-family: 'Kaushan Script', cursive;
   }
   img {
     width: 500px;
@@ -14,26 +15,18 @@ body {
   }
   h3 {
     color: #FFF9C4;
-  }
-  #redbubble {
-    color: #00E5FF;
-    border-color: #C2185B;
-    border-style: solid;
-    border-radius: 20px;
-    padding: 10px;
-    background-color: #b33687;
-  }
-  #threadless {
-    color: #00E5FF;
-    border-color: #C2185B;
-    border-style: solid;
-    border-radius: 20px;
-    padding: 10px;
-    background-color: #b33687;
+    padding-left: 150px;
+    padding-right: 150px;
   }
   h5 {
     color: #00E676;
   }
   a {
     text-decoration: none;
+    color: #00E5FF;
+    border-color: #C2185B;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #b33687;
   }
