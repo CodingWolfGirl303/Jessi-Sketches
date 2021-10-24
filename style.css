@@ -1,7 +1,9 @@
   body {
     background: linear-gradient(#008080 0%,#191970 100%);
+    background-position: fixed;
     text-align: center;
     font-family: 'Kaushan Script', cursive;
+    color: white;
   }
   #elephants {
     width: 500px;
@@ -10,18 +12,14 @@
     border-radius: 18px;
     border-width: 10px;
   }
-  h1 {
-    color: white;
-  }
   h3 {
-    color: #FFF9C4;
     padding-left: 150px;
     padding-right: 150px;
   }
-  h5 {
+  #credit {
     color: #00E676;
   }
-  a {
+  .links {
     text-decoration: none;
     color: #00E5FF;
     border-color: #C2185B;
@@ -38,4 +36,8 @@
   }
   #throwpillow {
     width: 400px;
+  }
+  .designs {
+    width: 200px;
+    height: 200px;
   }
